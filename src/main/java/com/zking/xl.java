@@ -1,7 +1,6 @@
 package com.zking;
 
-public class xlxl {
-
+public class xl {
     public int add(int a,int b){
         return a+b;
     }
